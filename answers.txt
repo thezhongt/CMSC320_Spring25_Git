@@ -5,3 +5,7 @@ Answer: Git is a great way to monitor and maintain version control.  With Git, w
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to pretty much any field because anything can benefit from analyzing data to make predictions.  An example in the financial sector is predicting stock prices.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Both merging and rebasing are used to combine changes from branches.  However, merging does so while preserving the history of both branches, while rebasing completely rewrites the history of the branch instead.
